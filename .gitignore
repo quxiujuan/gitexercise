@@ -1,0 +1,9 @@
+# Created by .ignore support plugin (hsz.mobi)
+*.iml
+*/target/*
+target/
+/.idea/
+/logs/
+GitCommitMessage.template
+velocity.log
+*.log
